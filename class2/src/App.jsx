@@ -29,7 +29,7 @@ import React, { useState } from 'react'
 import Nav from './components/Nav'
 
 const App = () => {
-  const [nav,setnav]=useState("hello from navigation")
+  const [nav,setnav]=useState("hello from navigation heeuu")
    return (
     <div>App
 
